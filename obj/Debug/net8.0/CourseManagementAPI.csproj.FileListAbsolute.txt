@@ -135,3 +135,4 @@ C:\Users\DELL\CourseManagementAPI\obj\Debug\net8.0\refint\CourseManagementAPI.dl
 C:\Users\DELL\CourseManagementAPI\obj\Debug\net8.0\CourseManagementAPI.pdb
 C:\Users\DELL\CourseManagementAPI\obj\Debug\net8.0\CourseManagementAPI.genruntimeconfig.cache
 C:\Users\DELL\CourseManagementAPI\obj\Debug\net8.0\ref\CourseManagementAPI.dll
+C:\Users\DELL\CourseManagementAPI\obj\Debug\net8.0\CourseManagementAPI.sourcelink.json
